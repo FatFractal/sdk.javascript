@@ -1,0 +1,26 @@
+{
+  "name": "fatfractal-js-sdk",
+  "version": "1.5.0",
+  "homepage": "http://fatfractal.com",
+  "authors": [
+    "Gary Casey <gary@fatfractal.com>",
+    "Kevin Nickels <kevin@fatfractal.com>",
+    "David Wells <dave@fatfractal.com>"
+  ],
+  "description": "FatFractal clientside SDK for JavaScript/HTML5",
+  "main": "js/FatFractal.js",
+  "keywords": [
+    "FatFractal",
+    "NoServer",
+    "BAAS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "README.md",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
